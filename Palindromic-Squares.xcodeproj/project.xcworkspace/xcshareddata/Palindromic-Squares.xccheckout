@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2B715E94-2AEC-46A8-93DF-5D6254D88B1F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Palindromic-Squares</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8954D359-BEA8-4FFD-911D-5D34D3C6DF29</key>
+		<string>https://github.com/amangrana/USACO.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Palindromic-Squares/Palindromic-Squares.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8954D359-BEA8-4FFD-911D-5D34D3C6DF29</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/amangrana/USACO.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8954D359-BEA8-4FFD-911D-5D34D3C6DF29</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8954D359-BEA8-4FFD-911D-5D34D3C6DF29</string>
+			<key>IDESourceControlWCCName</key>
+			<string>USACO</string>
+		</dict>
+	</array>
+</dict>
+</plist>
